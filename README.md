@@ -5,7 +5,7 @@
 
 <h3 align="center">SvelteKit Docker Deployment</h3>
 <p align="center">
-    Mach deine SvelteKit-App mit Docker ganz einfach bereit! 🐳💻
+    Mach deine SvelteKit-App mit Docker ganz einfach bereit! 🐳🌿
     <br />
     <br />
     <a href="https://github.com/BynrDevelopment/SvelteKit-Template/issues">Fehler melden</a>
