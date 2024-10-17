@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/BynrDevelopment">
-    <img src="https://github.com/user-attachments/assets/8432f9d2-4f1d-4ab3-89e5-d9a0d577341e" width="100%">
+    <img src="https://github.com/user-attachments/assets/e0d4eac9-643a-446d-ae86-938f018e51ff" width="100%">
   </a>
 
 <h3 align="center">SvelteKit Docker Deployment</h3>
