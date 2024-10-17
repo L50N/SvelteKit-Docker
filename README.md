@@ -1,61 +1,62 @@
 <div align="center">
-  <a href="https://github.com/l50n">
-    <img src="https://github.com/user-attachments/assets/c612bffc-815e-40fe-bfdd-f83c3cefee5c" alt="Logo" height="80">
+  <a href="https://github.com/BynrDevelopment">
+    <img src="https://github.com/user-attachments/assets/8432f9d2-4f1d-4ab3-89e5-d9a0d577341e" width="100%">
   </a>
-  <h3 align="center">SvelteKit Docker Deployment</h3>
-  <p align="center">
-    Streamline your SvelteKit app deployment with Docker! 🐳💻
+
+<h3 align="center">SvelteKit Docker Deployment</h3>
+<p align="center">
+    Mach deine SvelteKit-App mit Docker ganz einfach bereit! 🐳💻
     <br />
     <br />
-    <a href="https://github.com/L50N/SvelteKit-Docker/issues">Report a Bug</a>
+    <a href="https://github.com/BynrDevelopment/SvelteKit-Template/issues">Fehler melden</a>
     ·
-    <a href="https://paypal.me/L5ONdev">Support with a Donation</a>
-  </p>
+    <a href="https://paypal.me/L5ONdev">Mit einer Spende unterstützen</a>
+</p>
 </div>
 
-## About the Project
+## Über das Projekt
 
-This repository provides a robust and efficient Docker setup for deploying SvelteKit applications. Tailored for developers who seek a streamlined process for containerizing and deploying their web projects.
+Dieses Repository stellt eine einfache und schnelle Docker-Lösung für die Bereitstellung von SvelteKit-Apps bereit. Es ist für Entwickler gedacht, die ihre Webprojekte unkompliziert containerisieren und deployen wollen.
 
-Key Features:
-* 🚀 Effortless setup and deployment process
-* 📦 Optimized Docker configuration for SvelteKit
-* 🔄 Easy source code updates with Docker volumes
+Hauptfunktionen:
+* 🚀 Einfache Einrichtung und Bereitstellung
+* 📦 Optimierte Docker-Konfiguration für SvelteKit
+* 🔄 Leichtes Aktualisieren des Quellcodes mit Docker-Volumes
 
-### Built with
+### Entwickelt mit
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-1B1F23?style=for-the-badge&logo=Svelte&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-1B1F23?style=for-the-badge&logo=docker&logoColor=58A6FF)
 ![Node.js](https://img.shields.io/badge/Node.js-1B1F23?style=for-the-badge&logo=node.js&logoColor=58A6FF)
 
-## Getting Started
+## Erste Schritte
 
-### Prerequisites
+### Voraussetzungen
 
-* Docker and Docker Compose (Plugin) installed on your system.
-* Basic knowledge of Docker and containerization concepts.
+* Docker und Docker Compose (Plugin) auf deinem System installiert.
+* Grundkenntnisse über Docker und Container.
 
 ### Installation
 
-1. Clone the repository:
+1. Klone das Repository:
    ```bash
-   git clone https://github.com/L50N/SvelteKit-Docker.git
+   git clone https://github.com/BynrDevelopment/SvelteKit-Template.git
    ```
-2. Navigate to the project directory:
+2. Wechsle in das Projektverzeichnis:
    ```bash
    cd SvelteKit-Docker
    ```
-3. **Create a `./data` folder and put your App source code into it.**
-4. Build and run the Docker container:
+3. **Erstelle einen `./data`-Ordner und lege deinen App-Quellcode hinein.**
+4. Baue und starte den Docker-Container:
    ```bash
    docker compose up -d
    ```
-   (Building can take a little while...)
+   (Das kann etwas dauern...)
 
-## Usage
+## Nutzung
 
-After starting the container, your SvelteKit application will be accessible at 🔗 http://127.0.0.1:3000/.
+Nachdem der Container gestartet ist, ist deine SvelteKit-App unter 🔗 http://127.0.0.1:3000/ erreichbar.
 
-## Acknowledgments
+## Danksagungen
 
-A project made with ❤️ by L5ON
+Entwicklung & Support durch Bynr 🍃
